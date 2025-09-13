@@ -1,29 +1,33 @@
+# NIK Parse API
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=NIK+Parse+API;Parser+Identitas+Indonesia;Cepat+%26+Akurat;Siap+untuk+Produksi" alt="NIK Parse API" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=NIK+Parse+API;Parser+Identitas+Indonesia;Cepat+dan+Akurat;Siap+untuk+Produksi" alt="NIK Parse API" />
   
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2500&pause=800&color=FF3366&center=true&vCenter=true&width=600&lines=Parse+NIK+Indonesia+secara+instan;Ekstrak+informasi+detail+lengkap;API+yang+aman+dan+terpercaya;Siap+digunakan+untuk+produksi" alt="Features" />
+  <p style="color: #059669; font-size: 18px; font-weight: 600;">
+    Parse NIK Indonesia secara instan dengan ekstraksi informasi detail lengkap
+  </p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=500&lines=FITUR+UNGGULAN;KENAPA+PILIH+KAMI" alt="Features Header" />
+  <h2 style="color: #10B981; font-weight: 700;">FITUR UNGGULAN</h2>
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2200&pause=600&color=FFD700&center=true&vCenter=true&width=350&lines=SUPER+CEPAT;Respon+dalam+Milidetik" alt="Ultra Fast" />
+<h4 style="color: #059669;">SUPER CEPAT</h4>
 
 Parse NIK dalam hitungan milidetik dengan performa tinggi yang konsisten
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2200&pause=600&color=FF6B9D&center=true&vCenter=true&width=350&lines=AKURASI+TINGGI;Presisi+100%25" alt="Accurate" />
+<h4 style="color: #059669;">AKURASI TINGGI</h4>
 
 Validasi dan ekstraksi data yang sangat tepat dengan tingkat akurasi maksimal
 
@@ -32,14 +36,14 @@ Validasi dan ekstraksi data yang sangat tepat dengan tingkat akurasi maksimal
 <tr>
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=350&lines=KEAMANAN+TINGGI;Enkripsi+Enterprise" alt="Secure" />
+<h4 style="color: #059669;">KEAMANAN TINGGI</h4>
 
 API yang aman dengan standar keamanan tingkat enterprise untuk data sensitif
 
 </td>
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2200&pause=600&color=FF9F43&center=true&vCenter=true&width=350&lines=MUDAH+INTEGRASI;Satu+Baris+Kode" alt="Easy" />
+<h4 style="color: #059669;">MUDAH INTEGRASI</h4>
 
 REST API sederhana yang mudah diintegrasikan ke semua platform dan framework
 
@@ -50,7 +54,7 @@ REST API sederhana yang mudah diintegrasikan ke semua platform dan framework
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=30&duration=3200&pause=1100&color=A855F7&center=true&vCenter=true&width=600&lines=PANDUAN+CEPAT;MULAI+SEKARANG+JUGA" alt="Quick Start" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=30&duration=3200&pause=1100&color=10B981&center=true&vCenter=true&width=600&lines=PANDUAN+CEPAT" alt="Quick Start" />
 </div>
 
 ### Base URL
@@ -59,7 +63,7 @@ https://parse1337.vercel.app
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=850&color=10B981&center=true&vCenter=true&width=450&lines=ENDPOINT+API;PILIH+METODE+ANDA" alt="Endpoints" />
+  <h3 style="color: #10B981;">ENDPOINT API</h3>
 </div>
 
 | Metode | Endpoint | Deskripsi |
@@ -70,11 +74,11 @@ https://parse1337.vercel.app
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3400&pause=1200&color=EF4444&center=true&vCenter=true&width=550&lines=CONTOH+KODE;PANDUAN+IMPLEMENTASI" alt="Code Examples" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3400&pause=1200&color=10B981&center=true&vCenter=true&width=550&lines=CONTOH+KODE" alt="Code Examples" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=450&lines=Implementasi+JavaScript;Async+Await+Modern" alt="JavaScript" />
+  <h3 style="color: #059669;">Implementasi JavaScript</h3>
 </div>
 
 ```javascript
@@ -105,7 +109,7 @@ parseNIK('3201234567890001').then(result => {
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2400&pause=700&color=06B6D4&center=true&vCenter=true&width=450&lines=Perintah+cURL;Siap+untuk+Terminal" alt="cURL" />
+  <h3 style="color: #059669;">Perintah cURL</h3>
 </div>
 
 **POST Request**
@@ -123,7 +127,7 @@ curl "https://parse1337.vercel.app/api/nik/parse?nik=3201234567890001" \
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2400&pause=700&color=F59E0B&center=true&vCenter=true&width=450&lines=Implementasi+Python;Data+Science+Ready" alt="Python" />
+  <h3 style="color: #059669;">Implementasi Python</h3>
 </div>
 
 ```python
@@ -156,7 +160,7 @@ print(json.dumps(result, indent=2, ensure_ascii=False))
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2400&pause=700&color=EC4899&center=true&vCenter=true&width=450&lines=Komponen+React;Frontend+Modern" alt="React" />
+  <h3 style="color: #059669;">Komponen React</h3>
 </div>
 
 ```jsx
@@ -221,11 +225,11 @@ export default KomponenParserNIK;
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3600&pause=1300&color=059669&center=true&vCenter=true&width=550&lines=FORMAT+RESPONS;STRUKTUR+DATA" alt="Response Format" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3600&pause=1300&color=10B981&center=true&vCenter=true&width=550&lines=FORMAT+RESPONS" alt="Response Format" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2400&pause=600&color=22C55E&center=true&vCenter=true&width=350&lines=RESPONS+BERHASIL;DATA+LENGKAP" alt="Success" />
+  <h3 style="color: #059669;">Respons Berhasil</h3>
 </div>
 
 ```json
@@ -254,7 +258,7 @@ export default KomponenParserNIK;
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2400&pause=600&color=EF4444&center=true&vCenter=true&width=350&lines=RESPONS+ERROR;INFO+VALIDASI" alt="Error" />
+  <h3 style="color: #059669;">Respons Error</h3>
 </div>
 
 ```json
@@ -272,11 +276,11 @@ export default KomponenParserNIK;
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3800&pause=1400&color=F59E0B&center=true&vCenter=true&width=550&lines=STRUKTUR+NIK;PAHAMI+FORMATNYA" alt="NIK Format" />
+  <h2 style="color: #10B981; font-weight: 700;">STRUKTUR NIK</h2>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=16+DIGIT+STRUKTUR;DECODE+SETIAP+BAGIAN" alt="Structure" />
+  <h3 style="color: #059669;">16 Digit Struktur</h3>
 </div>
 
 ```
@@ -296,11 +300,11 @@ Format NIK: XX.XXXX.DDMMYY.XXXX
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=4000&pause=1500&color=06B6D4&center=true&vCenter=true&width=550&lines=PENGGUNAAN+LANJUTAN;SIAP+PRODUKSI" alt="Advanced Usage" />
+  <h2 style="color: #10B981; font-weight: 700;">PENGGUNAAN LANJUTAN</h2>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=450&lines=Backend+Node.js;Integrasi+Express" alt="Node.js" />
+  <h3 style="color: #059669;">Backend Node.js</h3>
 </div>
 
 ```javascript
@@ -362,7 +366,7 @@ app.listen(PORT, () => {
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2600&pause=800&color=EC4899&center=true&vCenter=true&width=450&lines=React+Native;Pengembangan+Mobile" alt="React Native" />
+  <h3 style="color: #059669;">React Native</h3>
 </div>
 
 ```javascript
