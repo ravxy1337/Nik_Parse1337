@@ -1,49 +1,49 @@
 # NIK Parse API
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=NIK+Parse+API;Indonesian+Identity+Parser;Lightning+Fast+%26+Accurate;Built+for+Developers" alt="NIK Parse API" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=NIK+Parse+API;Parser+Identitas+Indonesia;Cepat+%26+Akurat;Siap+untuk+Produksi" alt="NIK Parse API" />
   
   <br><br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Parse+Indonesian+NIK+instantly;Extract+detailed+information;Secure+and+reliable+API;Ready+for+production+use" alt="Features" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2500&pause=800&color=FF3366&center=true&vCenter=true&width=600&lines=Parse+NIK+Indonesia+secara+instan;Ekstrak+informasi+detail+lengkap;API+yang+aman+dan+terpercaya;Siap+digunakan+untuk+produksi" alt="Features" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=400&lines=FEATURES;AMAZING+FEATURES" alt="Features Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=500&lines=FITUR+UNGGULAN;KENAPA+PILIH+KAMI" alt="Features Header" />
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=2000&pause=500&color=95E1D3&center=true&vCenter=true&width=300&lines=ULTRA+FAST;Millisecond+Response+Time" alt="Ultra Fast" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2200&pause=600&color=FFD700&center=true&vCenter=true&width=350&lines=SUPER+CEPAT;Respon+dalam+Milidetik" alt="Ultra Fast" />
 
-Parse NIK dalam hitungan milliseconds dengan performa tinggi
+Parse NIK dalam hitungan milidetik dengan performa tinggi yang konsisten
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=2000&pause=500&color=F38BA8&center=true&vCenter=true&width=300&lines=HIGHLY+ACCURATE;100%25+Precision+Rate" alt="Accurate" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2200&pause=600&color=FF6B9D&center=true&vCenter=true&width=350&lines=AKURASI+TINGGI;Presisi+100%25" alt="Accurate" />
 
-Validasi dan ekstraksi data yang sangat tepat dan terpercaya
+Validasi dan ekstraksi data yang sangat tepat dengan tingkat akurasi maksimal
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=2000&pause=500&color=A8DADC&center=true&vCenter=true&width=300&lines=ENTERPRISE+SECURE;Bank+Grade+Security" alt="Secure" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=350&lines=KEAMANAN+TINGGI;Enkripsi+Enterprise" alt="Secure" />
 
-API yang aman dengan enkripsi tingkat enterprise
+API yang aman dengan standar keamanan tingkat enterprise untuk data sensitif
 
 </td>
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=2000&pause=500&color=FFD23F&center=true&vCenter=true&width=300&lines=EASY+INTEGRATION;One+Line+Implementation" alt="Easy" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2200&pause=600&color=FF9F43&center=true&vCenter=true&width=350&lines=MUDAH+INTEGRASI;Satu+Baris+Kode" alt="Easy" />
 
-Simple REST API yang mudah diintegrasikan ke semua platform
+REST API sederhana yang mudah diintegrasikan ke semua platform dan framework
 
 </td>
 </tr>
@@ -52,7 +52,7 @@ Simple REST API yang mudah diintegrasikan ke semua platform
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=QUICK+START+GUIDE;GET+STARTED+NOW" alt="Quick Start" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=30&duration=3200&pause=1100&color=A855F7&center=true&vCenter=true&width=600&lines=PANDUAN+CEPAT;MULAI+SEKARANG+JUGA" alt="Quick Start" />
 </div>
 
 ### Base URL
@@ -61,26 +61,26 @@ https://parse1337.vercel.app
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=400&lines=API+ENDPOINTS;CHOOSE+YOUR+METHOD" alt="Endpoints" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2600&pause=850&color=10B981&center=true&vCenter=true&width=450&lines=ENDPOINT+API;PILIH+METODE+ANDA" alt="Endpoints" />
 </div>
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
+| Metode | Endpoint | Deskripsi |
+|--------|----------|-----------|
 | **POST** | `/api/nik/parse` | Parse NIK menggunakan JSON payload |
-| **GET** | `/api/nik/parse?nik=<number>` | Parse NIK menggunakan query parameter |
+| **GET** | `/api/nik/parse?nik=<nomor>` | Parse NIK menggunakan query parameter |
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=00CEC9&center=true&vCenter=true&width=500&lines=CODE+EXAMPLES;IMPLEMENTATION+GUIDE" alt="Code Examples" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3400&pause=1200&color=EF4444&center=true&vCenter=true&width=550&lines=CONTOH+KODE;PANDUAN+IMPLEMENTASI" alt="Code Examples" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FD79A8&center=true&vCenter=true&width=400&lines=JavaScript+Implementation;Modern+Async+Await" alt="JavaScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=450&lines=Implementasi+JavaScript;Async+Await+Modern" alt="JavaScript" />
 </div>
 
 ```javascript
-// Modern JavaScript dengan async/await
+// JavaScript modern dengan async/await
 const parseNIK = async (nik) => {
   try {
     const response = await fetch('https://parse1337.vercel.app/api/nik/parse', {
@@ -100,14 +100,14 @@ const parseNIK = async (nik) => {
   }
 };
 
-// Penggunaan
+// Cara penggunaan
 parseNIK('3201234567890001').then(result => {
-  console.log('Parsed Data:', result.data);
+  console.log('Data yang diparsing:', result.data);
 });
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=A29BFE&center=true&vCenter=true&width=400&lines=cURL+Commands;Terminal+Ready" alt="cURL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2400&pause=700&color=06B6D4&center=true&vCenter=true&width=450&lines=Perintah+cURL;Siap+untuk+Terminal" alt="cURL" />
 </div>
 
 **POST Request**
@@ -125,7 +125,7 @@ curl "https://parse1337.vercel.app/api/nik/parse?nik=3201234567890001" \
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=55A3FF&center=true&vCenter=true&width=400&lines=Python+Implementation;Data+Science+Ready" alt="Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2400&pause=700&color=F59E0B&center=true&vCenter=true&width=450&lines=Implementasi+Python;Data+Science+Ready" alt="Python" />
 </div>
 
 ```python
@@ -143,31 +143,31 @@ class NIKParser:
         })
     
     def parse(self, nik: str) -> Dict[str, Any]:
-        """Parse Indonesian NIK and extract detailed information"""
+        """Parse NIK Indonesia dan ekstrak informasi detail"""
         try:
             response = self.session.post(self.base_url, json={"nik": nik})
             response.raise_for_status()
             return response.json()
         except requests.RequestException as e:
-            return {"status": "error", "message": f"Request failed: {e}"}
+            return {"status": "error", "message": f"Request gagal: {e}"}
 
-# Usage
+# Cara penggunaan
 parser = NIKParser()
 result = parser.parse("3201234567890001")
 print(json.dumps(result, indent=2, ensure_ascii=False))
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF7675&center=true&vCenter=true&width=400&lines=React+Component;Modern+Frontend" alt="React" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2400&pause=700&color=EC4899&center=true&vCenter=true&width=450&lines=Komponen+React;Frontend+Modern" alt="React" />
 </div>
 
 ```jsx
 import React, { useState, useCallback } from 'react';
 import axios from 'axios';
 
-const NIKParserComponent = () => {
+const KomponenParserNIK = () => {
   const [nik, setNik] = useState('');
-  const [result, setResult] = useState(null);
+  const [hasil, setHasil] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
@@ -185,7 +185,7 @@ const NIKParserComponent = () => {
         nik: nik
       });
       
-      setResult(response.data);
+      setHasil(response.data);
     } catch (err) {
       setError('Gagal memparse NIK');
     } finally {
@@ -203,31 +203,31 @@ const NIKParserComponent = () => {
         maxLength={16}
       />
       <button onClick={parseNIK} disabled={loading}>
-        {loading ? 'Parsing...' : 'Parse NIK'}
+        {loading ? 'Memproses...' : 'Parse NIK'}
       </button>
       
       {error && <div className="error">{error}</div>}
-      {result && result.status === 'success' && (
+      {hasil && hasil.status === 'success' && (
         <div className="result">
           <h3>Data Berhasil Diparsing:</h3>
-          <pre>{JSON.stringify(result.data, null, 2)}</pre>
+          <pre>{JSON.stringify(hasil.data, null, 2)}</pre>
         </div>
       )}
     </div>
   );
 };
 
-export default NIKParserComponent;
+export default KomponenParserNIK;
 ```
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=E17055&center=true&vCenter=true&width=500&lines=RESPONSE+FORMAT;DATA+STRUCTURE" alt="Response Format" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3600&pause=1300&color=059669&center=true&vCenter=true&width=550&lines=FORMAT+RESPONS;STRUKTUR+DATA" alt="Response Format" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=2000&pause=500&color=00B894&center=true&vCenter=true&width=300&lines=SUCCESS+RESPONSE;COMPLETE+DATA" alt="Success" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2400&pause=600&color=22C55E&center=true&vCenter=true&width=350&lines=RESPONS+BERHASIL;DATA+LENGKAP" alt="Success" />
 </div>
 
 ```json
@@ -256,7 +256,7 @@ export default NIKParserComponent;
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=2000&pause=500&color=E84393&center=true&vCenter=true&width=300&lines=ERROR+RESPONSE;VALIDATION+INFO" alt="Error" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2400&pause=600&color=EF4444&center=true&vCenter=true&width=350&lines=RESPONS+ERROR;INFO+VALIDASI" alt="Error" />
 </div>
 
 ```json
@@ -274,11 +274,11 @@ export default NIKParserComponent;
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=FDCB6E&center=true&vCenter=true&width=500&lines=NIK+STRUCTURE;UNDERSTAND+THE+FORMAT" alt="NIK Format" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=3800&pause=1400&color=F59E0B&center=true&vCenter=true&width=550&lines=STRUKTUR+NIK;PAHAMI+FORMATNYA" alt="NIK Format" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=16+DIGIT+STRUCTURE;DECODE+EVERY+PART" alt="Structure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=16+DIGIT+STRUKTUR;DECODE+SETIAP+BAGIAN" alt="Structure" />
 </div>
 
 ```
@@ -298,44 +298,35 @@ Format NIK: XX.XXXX.DDMMYY.XXXX
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=00CEC9&center=true&vCenter=true&width=500&lines=ADVANCED+USAGE;PRODUCTION+READY" alt="Advanced Usage" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=28&duration=4000&pause=1500&color=06B6D4&center=true&vCenter=true&width=550&lines=PENGGUNAAN+LANJUTAN;SIAP+PRODUKSI" alt="Advanced Usage" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=A29BFE&center=true&vCenter=true&width=400&lines=Node.js+Backend;Express+Integration" alt="Node.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=450&lines=Backend+Node.js;Integrasi+Express" alt="Node.js" />
 </div>
 
 ```javascript
 const express = require('express');
 const axios = require('axios');
-const rateLimit = require('express-rate-limit');
 
 const app = express();
 app.use(express.json());
 
-// Rate limiting
-const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100 // limit each IP to 100 requests per windowMs
-});
-
-app.use('/api/nik', limiter);
-
-// NIK validation middleware
-const validateNIK = (req, res, next) => {
+// Middleware validasi NIK
+const validasiNIK = (req, res, next) => {
   const { nik } = req.body;
   
   if (!nik || !/^\d{16}$/.test(nik)) {
     return res.status(400).json({
-      error: 'Invalid NIK format',
-      message: 'NIK must be exactly 16 digits'
+      error: 'Format NIK tidak valid',
+      message: 'NIK harus tepat 16 digit angka'
     });
   }
   
   next();
 };
 
-app.post('/api/nik/validate', validateNIK, async (req, res) => {
+app.post('/api/nik/validasi', validasiNIK, async (req, res) => {
   try {
     const { nik } = req.body;
     
@@ -349,40 +340,40 @@ app.post('/api/nik/validate', validateNIK, async (req, res) => {
       }
     });
     
-    // Add additional processing if needed
-    const processedData = {
+    // Tambahkan processing tambahan jika diperlukan
+    const dataProses = {
       ...response.data,
       timestamp: new Date().toISOString(),
       source: 'NIK-Parse-API'
     };
     
-    res.json(processedData);
+    res.json(dataProses);
   } catch (error) {
-    console.error('NIK validation error:', error.message);
+    console.error('Error validasi NIK:', error.message);
     res.status(500).json({
-      error: 'Validation service unavailable',
-      message: 'Please try again later'
+      error: 'Service validasi tidak tersedia',
+      message: 'Silakan coba lagi nanti'
     });
   }
 });
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`NIK Validation Service running on port ${PORT}`);
+  console.log(`NIK Validation Service berjalan di port ${PORT}`);
 });
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF7675&center=true&vCenter=true&width=400&lines=React+Native;Mobile+Development" alt="React Native" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=20&duration=2600&pause=800&color=EC4899&center=true&vCenter=true&width=450&lines=React+Native;Pengembangan+Mobile" alt="React Native" />
 </div>
 
 ```javascript
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, Alert } from 'react-native';
 
-const NIKParser = () => {
+const ParserNIK = () => {
   const [nik, setNik] = useState('');
-  const [result, setResult] = useState(null);
+  const [hasil, setHasil] = useState(null);
   const [loading, setLoading] = useState(false);
 
   const parseNIK = async () => {
@@ -405,7 +396,7 @@ const NIKParser = () => {
       const data = await response.json();
       
       if (data.status === 'success') {
-        setResult(data.data);
+        setHasil(data.data);
         Alert.alert('Berhasil', 'NIK berhasil diparsing!');
       } else {
         Alert.alert('Error', data.pesan);
@@ -420,7 +411,7 @@ const NIKParser = () => {
   return (
     <View style={{ padding: 20 }}>
       <Text style={{ fontSize: 24, fontWeight: 'bold', marginBottom: 20 }}>
-        NIK Parser
+        Parser NIK Indonesia
       </Text>
       
       <TextInput
@@ -453,176 +444,37 @@ const NIKParser = () => {
         </Text>
       </TouchableOpacity>
 
-      {result && (
+      {hasil && (
         <View style={{ marginTop: 20 }}>
           <Text style={{ fontSize: 18, fontWeight: 'bold' }}>Hasil:</Text>
-          <Text>Provinsi: {result.provinsi}</Text>
-          <Text>Kab/Kota: {result.kotakab}</Text>
-          <Text>Kecamatan: {result.kecamatan}</Text>
-          <Text>Kelamin: {result.kelamin}</Text>
-          <Text>Tanggal Lahir: {result.lahir}</Text>
+          <Text>Provinsi: {hasil.provinsi}</Text>
+          <Text>Kab/Kota: {hasil.kotakab}</Text>
+          <Text>Kecamatan: {hasil.kecamatan}</Text>
+          <Text>Kelamin: {hasil.kelamin}</Text>
+          <Text>Tanggal Lahir: {hasil.lahir}</Text>
         </View>
       )}
     </View>
   );
 };
 
-export default NIKParser;
+export default ParserNIK;
 ```
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=E84393&center=true&vCenter=true&width=500&lines=ERROR+HANDLING;ROBUST+VALIDATION" alt="Error Handling" />
-</div>
-
-| Status Code | Error Message | Description | Solution |
-|-------------|---------------|-------------|----------|
-| **400** | NIK harus 16 digit | Format NIK tidak sesuai | Pastikan NIK tepat 16 digit |
-| **400** | NIK mengandung karakter non-digit | NIK harus angka semua | Gunakan hanya angka 0-9 |
-| **400** | NIK tidak valid | NIK tidak dapat diparsing | Periksa kode wilayah NIK |
-| **429** | Too many requests | Rate limit terlampaui | Tunggu beberapa saat sebelum request lagi |
-| **500** | Internal server error | Kesalahan server | Coba lagi atau hubungi support |
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=500&lines=SECURITY+%26+PRIVACY;ENTERPRISE+GRADE" alt="Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=4200&pause=1600&color=FF6B6B&center=true&vCenter=true&width=800&lines=Parsing+identitas+Indonesia+dengan+presisi;Membangun+jembatan+antara+data+dan+developer;Kode+yang+menghubungkan%2C+API+yang+memberdayakan;Inovasi+melalui+pemrosesan+data+cerdas" alt="Mission Statement" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=55A3FF&center=true&vCenter=true&width=500&lines=ZERO+DATA+RETENTION;STATELESS+PROCESSING;HTTPS+ENCRYPTION;NO+LOGGING" alt="Security Features" />
-</div>
-
-**Keamanan Data:**
-- **Zero Logging** - Tidak ada data NIK yang disimpan atau dicatat
-- **Stateless API** - Setiap request diproses independen tanpa menyimpan state
-- **HTTPS Only** - Semua komunikasi menggunakan enkripsi SSL/TLS
-- **No Personal Data Storage** - API tidak menyimpan informasi personal apapun
-- **Rate Limiting** - Perlindungan terhadap abuse dan spam
-
-**Privacy Policy:**
-- Data NIK hanya diproses untuk parsing dan langsung dibuang
-- Tidak ada tracking atau analytics pada data personal
-- API tidak terhubung dengan database penyimpanan NIK
-- Tidak ada sharing data dengan pihak ketiga
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=FDCB6E&center=true&vCenter=true&width=500&lines=PERFORMANCE+%26+LIMITS;OPTIMIZE+YOUR+USAGE" alt="Performance" />
-</div>
-
-**Rate Limits:**
-- **100 requests per minute** per IP address
-- **1000 requests per hour** per IP address
-- **10,000 requests per day** per IP address
-
-**Response Times:**
-- **Average:** < 100ms
-- **95th percentile:** < 200ms
-- **99th percentile:** < 500ms
-
-**Best Practices:**
-- Implement client-side caching untuk mengurangi duplicate requests
-- Gunakan exponential backoff untuk retry logic
-- Validasi NIK format di client sebelum mengirim ke API
-- Batch multiple NIK jika memungkinkan
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=A29BFE&center=true&vCenter=true&width=500&lines=CONTRIBUTING;OPEN+SOURCE+COMMUNITY" alt="Contributing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=22&duration=4500&pause=1800&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+Parser+NIK+super+cepat;🎯+Ekstraksi+data+akurat;🔒+Kebijakan+zero+data+retention;🌟+Dibuat+dengan+cinta+di+Indonesia" alt="Features Footer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&width=400&lines=WE+WELCOME+CONTRIBUTORS;JOIN+THE+COMMUNITY" alt="Welcome Contributors" />
-</div>
-
-Kontribusi sangat diterima! Berikut cara untuk berkontribusi:
-
-**Development Setup:**
-```bash
-# Clone repository
-git clone https://github.com/yourusername/nik-parse-api.git
-cd nik-parse-api
-
-# Install dependencies
-npm install
-
-# Setup environment variables
-cp .env.example .env
-
-# Run development server
-npm run dev
-
-# Run tests
-npm test
-
-# Run linting
-npm run lint
-```
-
-**Contribution Guidelines:**
-- Fork repository dan buat branch baru untuk fitur/bugfix
-- Pastikan semua tests passing sebelum submit PR
-- Ikuti coding standards yang sudah ada
-- Update dokumentasi jika diperlukan
-- Tambahkan tests untuk fitur baru
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&duration=3000&pause=1000&color=FF7675&center=true&vCenter=true&width=500&lines=LICENSE+%26+CREDITS;OPEN+SOURCE+FOREVER" alt="License" />
-</div>
-
-**MIT License**
-
-Copyright (c) 2025 NIK Parse API
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
-
-**Acknowledgments:**
-- Indonesian Government untuk spesifikasi format NIK
-- Open Source Community untuk inspirasi dan dukungan
-- Vercel untuk platform hosting yang reliable
-- All contributors yang telah membantu pengembangan
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CONTACT+%26+SUPPORT;WE%27RE+HERE+TO+HELP" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=18&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Terima+kasih+telah+memilih+NIK+Parse+API;Beri+⭐+untuk+menunjukkan+dukungan;Follow+untuk+project+keren+lainnya;Selamat+coding%2C+developer+Indonesia!" alt="Gratitude" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=6C5CE7&center=true&vCenter=true&width=500&lines=GitHub+Issues+for+bugs;GitHub+Discussions+for+questions;Email+for+business+inquiry" alt="Contact Methods" />
-</div>
-
-**Get Help:**
-- **Bug Reports:** [GitHub Issues](https://github.com/yourusername/nik-parse-api/issues)
-- **Feature Requests:** [GitHub Discussions](https://github.com/yourusername/nik-parse-api/discussions)
-- **General Questions:** [GitHub Discussions Q&A](https://github.com/yourusername/nik-parse-api/discussions/categories/q-a)
-- **Business Inquiry:** your.email@example.com
-
-**Response Time:**
-- Issues dan bug reports: **< 24 hours**
-- Feature requests: **< 48 hours**  
-- Business inquiries: **< 72 hours**
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=800&lines=Parsing+Indonesian+identity+with+precision;Building+bridges+between+data+and+developers;Code+that+connects%2C+APIs+that+empower;Innovation+through+intelligent+data+processing" alt="Mission Statement" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Lightning+fast+NIK+parsing;🎯+Accurate+data+extraction;🔒+Zero+data+retention+policy;🌟+Made+with+love+in+Indonesia" alt="Features Footer" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=16&duration=3000&pause=800&color=95E1D3&center=true&vCenter=true&width=600&lines=Thank+you+for+choosing+NIK+Parse+API;Star+⭐+this+repo+to+show+support;Follow+for+more+awesome+projects;Happy+coding%2C+Indonesian+developers!" alt="Gratitude" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=14&duration=5000&pause=2000&color=A8DADC&center=true&vCenter=true&width=500&lines=©+2025+NIK+Parse+API;Open+source+•+MIT+Licensed;Crafted+with+passion+•+Powered+by+Vercel" alt="Copyright" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&duration=5500&pause=2200&color=8B5CF6&center=true&vCenter=true&width=550&lines=©+2025+NIK+Parse+API;Open+source+•+MIT+Licensed;Dibuat+dengan+passion+•+Powered+by+Vercel" alt="Copyright" />
 </div>
