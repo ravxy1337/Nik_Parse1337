@@ -1,5 +1,3 @@
-# NIK Parse API
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=NIK+Parse+API;Parser+Identitas+Indonesia;Cepat+dan+Akurat;Siap+untuk+Produksi" alt="NIK Parse API" />
   
