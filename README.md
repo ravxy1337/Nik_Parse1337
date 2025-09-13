@@ -1,3 +1,5 @@
+# NIK Parse API
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=NIK+Parse+API;Parser+Identitas+Indonesia;Cepat+%26+Akurat;Siap+untuk+Produksi" alt="NIK Parse API" />
   
@@ -458,21 +460,3 @@ const ParserNIK = () => {
 
 export default ParserNIK;
 ```
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=4200&pause=1600&color=FF6B6B&center=true&vCenter=true&width=800&lines=Parsing+identitas+Indonesia+dengan+presisi;Membangun+jembatan+antara+data+dan+developer;Kode+yang+menghubungkan%2C+API+yang+memberdayakan;Inovasi+melalui+pemrosesan+data+cerdas" alt="Mission Statement" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=22&duration=4500&pause=1800&color=00D4FF&center=true&vCenter=true&width=750&lines=🚀+Parser+NIK+super+cepat;🎯+Ekstraksi+data+akurat;🔒+Kebijakan+zero+data+retention;🌟+Dibuat+dengan+cinta+di+Indonesia" alt="Features Footer" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=18&duration=3500&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Terima+kasih+telah+memilih+NIK+Parse+API;Beri+⭐+untuk+menunjukkan+dukungan;Follow+untuk+project+keren+lainnya;Selamat+coding%2C+developer+Indonesia!" alt="Gratitude" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=16&duration=5500&pause=2200&color=8B5CF6&center=true&vCenter=true&width=550&lines=©+2025+NIK+Parse+API;Open+source+•+MIT+Licensed;Dibuat+dengan+passion+•+Powered+by+Vercel" alt="Copyright" />
-</div>
