@@ -1,3 +1,5 @@
+# NIK Parse API
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=NIK+Parse+API;Parser+Identitas+Indonesia;Cepat+dan+Akurat;Siap+untuk+Produksi" alt="NIK Parse API" />
   
@@ -10,44 +12,22 @@
 
 ---
 
-## <i class="fas fa-info-circle"></i> Apa itu NIK Parse?
-
-**NIK (Nomor Induk Kependudukan)** adalah nomor identitas unik 16 digit yang dimiliki setiap warga negara Indonesia. NIK Parse adalah teknologi yang dapat mengekstrak informasi tersembunyi dari struktur NIK, meliputi:
-
-- **<i class="fas fa-map-marker-alt"></i> Informasi Geografis**: Provinsi, Kabupaten/Kota, dan Kecamatan tempat NIK diterbitkan
-- **<i class="fas fa-venus-mars"></i> Jenis Kelamin**: Berdasarkan kode tanggal lahir (01-31 untuk laki-laki, 41-71 untuk perempuan)
-- **<i class="fas fa-calendar-alt"></i> Tanggal Lahir**: Ekstraksi tanggal, bulan, dan tahun kelahiran
-- **<i class="fas fa-user-tag"></i> Kode Unik**: Nomor urut registrasi di wilayah tersebut
-- **<i class="fas fa-plus-circle"></i> Data Tambahan**: Usia, zodiak, kode pos, dan informasi lainnya
-
-### <i class="fas fa-cogs"></i> Cara Kerja NIK Parse
-
-NIK memiliki struktur terorganisir: `XX.XXXX.DDMMYY.XXXX`
-- **2 digit pertama**: Kode provinsi
-- **4 digit berikutnya**: Kode kabupaten/kota dan kecamatan  
-- **6 digit tengah**: Tanggal lahir (DD+40 untuk perempuan, MM, YY)
-- **4 digit terakhir**: Nomor urut unik
-
-API ini memparse struktur tersebut dan mencocokkannya dengan database wilayah Indonesia untuk memberikan informasi lengkap dan akurat.
-
----
-
 <div align="center">
-  <h2 style="color: #10B981; font-weight: 700;"><i class="fas fa-star"></i> FITUR UNGGULAN</h2>
+  <h2 style="color: #10B981; font-weight: 700;">FITUR UNGGULAN</h2>
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
-<h4 style="color: #059669;"><i class="fas fa-bolt"></i> SUPER CEPAT</h4>
+<h4 style="color: #059669;">SUPER CEPAT</h4>
 
 Parse NIK dalam hitungan milidetik dengan performa tinggi yang konsisten
 
 </td>
 <td align="center" width="50%">
 
-<h4 style="color: #059669;"><i class="fas fa-bullseye"></i> AKURASI TINGGI</h4>
+<h4 style="color: #059669;">AKURASI TINGGI</h4>
 
 Validasi dan ekstraksi data yang sangat tepat dengan tingkat akurasi maksimal
 
@@ -56,14 +36,14 @@ Validasi dan ekstraksi data yang sangat tepat dengan tingkat akurasi maksimal
 <tr>
 <td align="center">
 
-<h4 style="color: #059669;"><i class="fas fa-shield-alt"></i> KEAMANAN TINGGI</h4>
+<h4 style="color: #059669;">KEAMANAN TINGGI</h4>
 
 API yang aman dengan standar keamanan tingkat enterprise untuk data sensitif
 
 </td>
 <td align="center">
 
-<h4 style="color: #059669;"><i class="fas fa-plug"></i> MUDAH INTEGRASI</h4>
+<h4 style="color: #059669;">MUDAH INTEGRASI</h4>
 
 REST API sederhana yang mudah diintegrasikan ke semua platform dan framework
 
@@ -77,13 +57,13 @@ REST API sederhana yang mudah diintegrasikan ke semua platform dan framework
   <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=30&duration=3200&pause=1100&color=10B981&center=true&vCenter=true&width=600&lines=PANDUAN+CEPAT" alt="Quick Start" />
 </div>
 
-### <i class="fas fa-link"></i> Base URL
-\`\`\`
+### Base URL
+```
 https://parse1337.vercel.app
-\`\`\`
+```
 
 <div align="center">
-  <h3 style="color: #10B981;"><i class="fas fa-code"></i> ENDPOINT API</h3>
+  <h3 style="color: #10B981;">ENDPOINT API</h3>
 </div>
 
 | Metode | Endpoint | Deskripsi |
@@ -98,10 +78,10 @@ https://parse1337.vercel.app
 </div>
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fab fa-js-square"></i> Implementasi JavaScript</h3>
+  <h3 style="color: #059669;">Implementasi JavaScript</h3>
 </div>
 
-\`\`\`javascript
+```javascript
 // JavaScript modern dengan async/await
 const parseNIK = async (nik) => {
   try {
@@ -126,31 +106,31 @@ const parseNIK = async (nik) => {
 parseNIK('3201234567890001').then(result => {
   console.log('Data yang diparsing:', result.data);
 });
-\`\`\`
+```
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fas fa-terminal"></i> Perintah cURL</h3>
+  <h3 style="color: #059669;">Perintah cURL</h3>
 </div>
 
 **POST Request**
-\`\`\`bash
+```bash
 curl -X POST https://parse1337.vercel.app/api/nik/parse \
   -H "Content-Type: application/json" \
   -H "User-Agent: NIK-Parser/1.0" \
   -d '{"nik": "3201234567890001"}'
-\`\`\`
+```
 
 **GET Request**
-\`\`\`bash
+```bash
 curl "https://parse1337.vercel.app/api/nik/parse?nik=3201234567890001" \
   -H "Accept: application/json"
-\`\`\`
+```
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fab fa-python"></i> Implementasi Python</h3>
+  <h3 style="color: #059669;">Implementasi Python</h3>
 </div>
 
-\`\`\`python
+```python
 import requests
 import json
 from typing import Dict, Any
@@ -177,13 +157,13 @@ class NIKParser:
 parser = NIKParser()
 result = parser.parse("3201234567890001")
 print(json.dumps(result, indent=2, ensure_ascii=False))
-\`\`\`
+```
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fab fa-react"></i> Komponen React</h3>
+  <h3 style="color: #059669;">Komponen React</h3>
 </div>
 
-\`\`\`jsx
+```jsx
 import React, { useState, useCallback } from 'react';
 import axios from 'axios';
 
@@ -240,7 +220,7 @@ const KomponenParserNIK = () => {
 };
 
 export default KomponenParserNIK;
-\`\`\`
+```
 
 ---
 
@@ -249,10 +229,10 @@ export default KomponenParserNIK;
 </div>
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fas fa-check-circle"></i> Respons Berhasil</h3>
+  <h3 style="color: #059669;">Respons Berhasil</h3>
 </div>
 
-\`\`\`json
+```json
 {
   "status": "success",
   "pesan": "NIK valid dan berhasil diparsing",
@@ -275,13 +255,13 @@ export default KomponenParserNIK;
     }
   }
 }
-\`\`\`
+```
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fas fa-exclamation-triangle"></i> Respons Error</h3>
+  <h3 style="color: #059669;">Respons Error</h3>
 </div>
 
-\`\`\`json
+```json
 {
   "status": "error",
   "pesan": "NIK harus tepat 16 digit angka",
@@ -291,58 +271,43 @@ export default KomponenParserNIK;
     "expected_length": 16
   }
 }
-\`\`\`
+```
 
 ---
 
 <div align="center">
-  <h2 style="color: #10B981; font-weight: 700;"><i class="fas fa-sitemap"></i> STRUKTUR NIK</h2>
+  <h2 style="color: #10B981; font-weight: 700;">STRUKTUR NIK</h2>
 </div>
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fas fa-hashtag"></i> 16 Digit Struktur</h3>
+  <h3 style="color: #059669;">16 Digit Struktur</h3>
 </div>
 
-\`\`\`
+```
 Format NIK: XX.XXXX.DDMMYY.XXXX
             │  │    │      │
             │  │    │      └─── Nomor urut (0001-9999)
             │  │    └────────── Tanggal lahir (DDMMYY)
             │  └─────────────── Kode wilayah kecamatan  
             └────────────────── Kode provinsi & kabupaten/kota
-\`\`\`
+```
 
-**<i class="fas fa-clipboard-list"></i> Contoh NIK Valid:**
+**Contoh NIK Valid:**
 - `3201234567890001` → Jawa Barat, Kabupaten Bogor
 - `1101234567890001` → Aceh, Kabupaten Simeulue  
 - `7371234567890001` → Sulawesi Selatan, Kota Makassar
 
-### <i class="fas fa-info"></i> Penjelasan Detail Parsing
-
-**1. Kode Wilayah (6 digit pertama)**
-- 2 digit pertama: Kode provinsi (11=Aceh, 32=Jawa Barat, 73=Sulawesi Selatan)
-- 2 digit berikutnya: Kode kabupaten/kota dalam provinsi
-- 2 digit terakhir: Kode kecamatan dalam kabupaten/kota
-
-**2. Tanggal Lahir (6 digit tengah)**
-- 2 digit pertama: Tanggal (01-31 untuk laki-laki, 41-71 untuk perempuan)
-- 2 digit berikutnya: Bulan (01-12)
-- 2 digit terakhir: Tahun (2 digit terakhir tahun kelahiran)
-
-**3. Nomor Urut (4 digit terakhir)**
-- Nomor registrasi unik di wilayah tersebut (0001-9999)
-
 ---
 
 <div align="center">
-  <h2 style="color: #10B981; font-weight: 700;"><i class="fas fa-rocket"></i> PENGGUNAAN LANJUTAN</h2>
+  <h2 style="color: #10B981; font-weight: 700;">PENGGUNAAN LANJUTAN</h2>
 </div>
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fab fa-node-js"></i> Backend Node.js</h3>
+  <h3 style="color: #059669;">Backend Node.js</h3>
 </div>
 
-\`\`\`javascript
+```javascript
 const express = require('express');
 const axios = require('axios');
 
@@ -398,13 +363,13 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`NIK Validation Service berjalan di port ${PORT}`);
 });
-\`\`\`
+```
 
 <div align="center">
-  <h3 style="color: #059669;"><i class="fab fa-react"></i> React Native</h3>
+  <h3 style="color: #059669;">React Native</h3>
 </div>
 
-\`\`\`javascript
+```javascript
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, Alert } from 'react-native';
 
@@ -496,57 +461,4 @@ const ParserNIK = () => {
 };
 
 export default ParserNIK;
-\`\`\`
-
----
-
-<div align="center">
-  <h2 style="color: #10B981; font-weight: 700;"><i class="fas fa-question-circle"></i> FAQ & TROUBLESHOOTING</h2>
-</div>
-
-### <i class="fas fa-question"></i> Pertanyaan Umum
-
-**Q: Apakah API ini menyimpan data NIK yang diparse?**
-A: Tidak, API ini tidak menyimpan data NIK apapun. Semua proses parsing dilakukan secara real-time tanpa penyimpanan.
-
-**Q: Berapa batas rate limit untuk API ini?**
-A: Saat ini belum ada rate limit yang diberlakukan, namun gunakan dengan bijak untuk performa optimal.
-
-**Q: Apakah bisa parse NIK yang tidak valid?**
-A: API akan mengembalikan error jika format NIK tidak sesuai (bukan 16 digit atau mengandung karakter non-numerik).
-
-### <i class="fas fa-tools"></i> Troubleshooting
-
-**Error: "NIK harus tepat 16 digit angka"**
-- Pastikan NIK yang dikirim tepat 16 digit
-- Hapus spasi, tanda hubung, atau karakter non-numerik
-
-**Error: "Gagal terhubung ke server"**
-- Periksa koneksi internet
-- Pastikan URL endpoint benar
-- Coba lagi setelah beberapa saat
-
----
-
-<div align="center">
-  <h2 style="color: #10B981; font-weight: 700;"><i class="fas fa-heart"></i> KONTRIBUSI & DUKUNGAN</h2>
-</div>
-
-<div align="center">
-  <p style="color: #059669; font-size: 16px;">
-    <i class="fas fa-envelope"></i> Untuk pertanyaan, saran, atau laporan bug, silakan hubungi developer
-  </p>
-  
-  <p style="color: #059669; font-size: 14px;">
-    <i class="fas fa-code"></i> Dibuat dengan <i class="fas fa-heart" style="color: #e74c3c;"></i> untuk kemudahan akses data kependudukan Indonesia
-  </p>
-</div>
-
----
-
-<div align="center">
-  <p style="color: #6b7280; font-size: 12px;">
-    <i class="fas fa-shield-alt"></i> API ini dibuat untuk tujuan edukasi dan pengembangan. 
-    Pastikan mematuhi regulasi perlindungan data pribadi yang berlaku.
-  </p>
-</div>
+```
